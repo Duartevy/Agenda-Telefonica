@@ -21,7 +21,7 @@ FOTOS DO PROJETO DEKSTOP:
 ![Captura de tela 2024-08-20 221602](https://github.com/user-attachments/assets/b66045b5-14bb-4e13-989b-875d62d42c99)
 
 
-                                            FOTOS DO PROJETO MOBILE:
+                                                    FOTOS DO PROJETO MOBILE:
 ![WhatsApp Image 2024-08-20 at 23 27 11](https://github.com/user-attachments/assets/a5723f87-d848-47b2-a679-7584bb93534e)
 
 
