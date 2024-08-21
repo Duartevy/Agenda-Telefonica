@@ -15,7 +15,11 @@ Composer
 
 Acesse o Link com a explicação no Youtube aqui: https://youtu.be/xu1CRUaTBGg
 
-Fotos do projeto 
+Fotos do projeto Dekstop:
 ![Captura de tela 2024-08-20 221428](https://github.com/user-attachments/assets/b2000913-a126-46b7-8887-31b7ff493978)
 ![Captura de tela 2024-08-20 221538](https://github.com/user-attachments/assets/b09073a0-7d63-4fa0-8be8-a9be7c6810ba)
 ![Captura de tela 2024-08-20 221602](https://github.com/user-attachments/assets/b66045b5-14bb-4e13-989b-875d62d42c99)
+
+Fotos do projeto Mobile:
+![WhatsApp Image 2024-08-20 at 23 27 10](https://github.com/user-attachments/assets/b27a1885-7fc0-4411-8933-de24e54c635b)
+![WhatsApp Image 2024-08-20 at 23 27 11](https://github.com/user-attachments/assets/a5723f87-d848-47b2-a679-7584bb93534e)
