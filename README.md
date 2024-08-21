@@ -1,7 +1,7 @@
 📕 About
 Criação de um CRUD (Create, Read, Update and Delete).
 <br>
-Informa uma agenda telefônica para os clientes se cadastraerem, com opção para cadastrar novos clientes, editar e deletar os cadastrados.
+Informa uma agenda telefônica para os clientes se cadastrarem, com opção para cadastrar novos clientes, editar e deletar os cadastrados.
 
 ⛏ Tools
 
