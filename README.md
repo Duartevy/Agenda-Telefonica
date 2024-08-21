@@ -4,9 +4,13 @@ Criação de um CRUD (Create, Read, Update and Delete).
 Informa uma agenda telefônica para os clientes se cadastraerem, com opção para cadastrar novos clientes, editar e deletar os cadastrados.
 
 ⛏ Tools
+
 PHP 8.2.12
+
 Laravel 11.9
+
 MySQL
+
 Composer
 
 Acesse o Link com a explicação no Youtube aqui: https://youtu.be/xu1CRUaTBGg
