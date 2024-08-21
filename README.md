@@ -24,4 +24,5 @@ Fotos do projeto Dekstop:
 
 Fotos do projeto Mobile:
 ![WhatsApp Image 2024-08-20 at 23 27 10](https://github.com/user-attachments/assets/b27a1885-7fc0-4411-8933-de24e54c635b)
+
 ![WhatsApp Image 2024-08-20 at 23 27 11](https://github.com/user-attachments/assets/a5723f87-d848-47b2-a679-7584bb93534e)
