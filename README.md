@@ -13,7 +13,7 @@ MySQL
 
 Composer
 
-Acesse o Link com a explicação no Youtube aqui: https://youtu.be/xu1CRUaTBGg
+Acesse o Link com a explicação no Youtube aqui: https://www.youtube.com/watch?v=scyNdtCz734
 
 FOTOS DO PROJETO DEKSTOP:
 ![Captura de tela 2024-08-20 221428](https://github.com/user-attachments/assets/b2000913-a126-46b7-8887-31b7ff493978)
