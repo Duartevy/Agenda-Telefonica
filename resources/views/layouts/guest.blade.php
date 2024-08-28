@@ -18,9 +18,9 @@
     <body class="font-sans text-gray-900 antialiased">
         <div class="min-h-screen flex items-center justify-center bg-gray-100">
             <div class="w-full sm:max-w-md flex flex-col items-center">
-                <a href="/" class="mb-6">
+                <!-- a href="/" class="mb-6">
                     <x-application-logo class="w-20 h-20 fill-current text-gray-500" />
-                </a>
+                </a> -->
 
                 <div class="w-full px-6 py-4 bg-white shadow-md overflow-hidden sm:rounded-lg">
                     {{ $slot }}
