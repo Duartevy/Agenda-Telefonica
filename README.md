@@ -15,7 +15,7 @@ Composer
 
 Acesse o Link com a explicação no Youtube aqui: https://www.youtube.com/watch?v=scyNdtCz734
 
-                                            FOTOS DO PROJETO DEKSTOP:
+                                                    FOTOS DO PROJETO DEKSTOP:
 
 ![Captura de tela 2024-08-28 203850](https://github.com/user-attachments/assets/81fd8691-8e8d-4e06-9498-775ccf68e390)
 ![Captura de tela 2024-08-28 204203](https://github.com/user-attachments/assets/eea62803-8923-4086-9f72-e9947c0ace03)
