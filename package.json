@@ -27,6 +27,7 @@
     },
     "dependencies": {
         "buffer": "^6.0.3",
+        "liveshare": "^0.0.1-security",
         "process": "^0.11.10",
         "vue": "^3.4.38"
     }
