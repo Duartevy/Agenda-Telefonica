@@ -12,8 +12,8 @@ Laravel 11.9
 MySQL
 
 Composer
-
-Acesse o Link com a explicação no Youtube aqui: https://www.youtube.com/watch?v=scyNdtCz734
+ 
+Acesse o Link com a explicação no Youtube aqui: https://www.youtube.com/watch?v=XalMWMswUdc 
 
                                                     FOTOS DO PROJETO DEKSTOP:
 
@@ -22,6 +22,8 @@ Acesse o Link com a explicação no Youtube aqui: https://www.youtube.com/watch?
 ![Captura de tela 2024-08-28 204319](https://github.com/user-attachments/assets/9a97a437-9b46-4b81-b0f5-61d91ef39931)
 ![Captura de tela 2024-08-28 204442](https://github.com/user-attachments/assets/1c8feb8f-d7dd-48cd-b9e9-917a6aafe0c4)
 ![Captura de tela 2024-08-28 204506](https://github.com/user-attachments/assets/fcf11feb-2cc5-4a61-9e2c-ae51b41a07ff)
+![Captura de tela 2024-08-28 221050](https://github.com/user-attachments/assets/8f7d14af-e837-4988-93c7-0f5efa7968d5)
+
 
 
 
