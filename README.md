@@ -21,7 +21,7 @@ Acesse o Link com a explicação no Youtube aqui: https://www.youtube.com/watch?
 ![Captura de tela 2024-08-28 204203](https://github.com/user-attachments/assets/eea62803-8923-4086-9f72-e9947c0ace03)
 ![Captura de tela 2024-08-28 221050](https://github.com/user-attachments/assets/8f7d14af-e837-4988-93c7-0f5efa7968d5)
 ![Captura de tela 2024-08-28 204319](https://github.com/user-attachments/assets/9a97a437-9b46-4b81-b0f5-61d91ef39931)
-![Captura de tela 2024-08-28 204442](https://github.com/user-attachments/assets/1c8feb8f-d7dd-48cd-b9e9-917a6aafe0c4)
+![Captura de tela 2024-09-01 144234](https://github.com/user-attachments/assets/1eba0174-1679-451e-bf72-1adb9d8a3162)
 ![Captura de tela 2024-08-28 204506](https://github.com/user-attachments/assets/fcf11feb-2cc5-4a61-9e2c-ae51b41a07ff)
 
 
