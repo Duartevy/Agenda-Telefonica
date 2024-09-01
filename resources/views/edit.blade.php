@@ -8,7 +8,7 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
 
-    <title>CRUD-Agenda</title>
+    <title>Agenda telefônica</title>
 </head>
 <body>
 
@@ -87,7 +87,15 @@
     width: 100%; 
     max-width: 700px;
 }
-
+body {
+    background-image: url('/imagens/lista-telefonica.jpg'); /* Defina o caminho correto para a imagem */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Lato', sans-serif;
+    color: #03178C;
+    text-shadow: 1px 1px 2px #000000;
+    }
 .modal-title {
     color: #03178C;
     margin-bottom: 20px;

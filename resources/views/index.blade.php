@@ -9,7 +9,7 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
         <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
 
-        <title>CRUD-Agenda</title>
+        <title>Agenda telefônica</title>
 
         <!-- Estilo customizado para cor azul e fundo -->
         <style>
